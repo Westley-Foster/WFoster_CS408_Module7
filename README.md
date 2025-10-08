@@ -27,3 +27,14 @@ To run the tests for the project, run the following command:
 ```bash
 npm test
 ```
+
+## References
+
+Sticky positioning for the nav bar while scrolling found on developer.mozilla.org, "Positioning", at
+ https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Positioning
+
+Responsive webpage found on developer.mozilla.org, "Responsive web design", at
+ https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design
+
+ Two-column layout for Photography images found on developer.mozilla.org, "CSS grid layout", at
+ https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Grids
