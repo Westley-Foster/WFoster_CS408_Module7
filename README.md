@@ -35,3 +35,5 @@ Responsive webpage found on developer.mozilla.org, "Responsive web design", at
 
  Two-column layout for Photography images found on developer.mozilla.org, "CSS grid layout", at
  https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Grids
+
+Grid layout to size right-side images referenced from classmate Matthew Trent
